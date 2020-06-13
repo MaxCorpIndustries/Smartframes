@@ -3,4 +3,4 @@ This project is an attempt to make a clip on attatchment for any pair of glasses
 
 
 Design notes:
-![alt text](file:///C:/Users/Arrow%20V.8/Pictures/github/smartframes/IMG_E1989.JPG)
+![alt text](https://drive.google.com/drive/u/0/folders/169Ts6ZS3j9us8HdUx9MyggyaryZKJZLP)
