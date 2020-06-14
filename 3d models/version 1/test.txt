@@ -1,1 +1,5 @@
+Version notes:
 
+- While the OLED holder and the lens hole are aligned well enough to provide a visible image, the profile of the design is too large.
+
+-Should be noted that other people watching the user can very easily read what message the user is getting, causing privacy concerns.
