@@ -1,0 +1,11 @@
+# Note
+
+this folder contains experimental code designed to test diffrent aspects of the smartframes system.
+
+Includes:
+
+- Accelerometer test
+
+- HM 10 communication test
+
+- OLED display test
